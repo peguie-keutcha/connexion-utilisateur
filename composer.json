@@ -3,7 +3,8 @@
         "php": ">=7.4"
     },
     "require-dev": {
-        "glpi-project/tools": "^0.4"
+        "glpi-project/tools": "^0.4",
+        "phpunit/phpunit": "^9.6"
     },
     "config": {
         "optimize-autoloader": true,

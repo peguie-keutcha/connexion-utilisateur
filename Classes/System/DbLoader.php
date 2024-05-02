@@ -10,7 +10,7 @@ use Interfaces\System\IDbLoader;
 final class DbLoader implements IDbLoader
 {
       private const dbFile = __DIR__ 
-            . '\..\..\DB\2-random-persons-20240427155132.json';
+            . '\..\..\DB\2-random-persons-20240427125432.json';
       
       private const exportFile = __DIR__ . '\..\..\clear_mdp.txt';
 
